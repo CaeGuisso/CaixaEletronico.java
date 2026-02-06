@@ -1,19 +1,30 @@
-## Getting Started
+# 💳 Caixa Eletrônico do Guisso
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto simples em **Java** que simula um **caixa eletrônico no terminal**, permitindo ao usuário visualizar saldo, realizar depósitos e efetuar saques.
 
-## Folder Structure
+Esse projeto foi criado com o objetivo de **praticar lógica de programação, entrada de dados e conversão de tipos** usando Java.
 
-The workspace contains two folders by default, where:
+---
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 📌 Funcionalidades
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- 📄 Exibir saldo atual  
+- ➕ Depositar um valor  
+- ➖ Sacar um valor  
+- 🖥️ Interface via terminal (console)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+---
 
-## Dependency Management
+## 🛠️ Tecnologias Utilizadas
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
-# CaixaEletronico.java
+- Java  
+- Scanner (`java.util.Scanner`)  
+- Console / Terminal
+
+---
+
+## ▶️ Como Executar o Projeto
+
+1. Certifique-se de ter o **Java JDK** instalado  
+   ```bash
+   java -version
