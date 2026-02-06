@@ -36,15 +36,15 @@ Este projeto foi criado com o objetivo de **praticar lógica de programação, e
 ### 1️⃣ Verificar se o Java está instalado
 
 ```bash
-java -version'''
+java -version```bash
 2️⃣ Compilar o arquivo
 bash
 Copiar código
-'''javac CaixaEletronico.java'''
+```bashjavac CaixaEletronico.java```bash
 3️⃣ Executar o programa
 bash
 Copiar código
-'''java CaixaEletronico'''
+```bashjava CaixaEletronico```bash
 📋 Funcionamento do Sistema
 Ao iniciar o programa, o sistema exibe um menu com três opções:
 
